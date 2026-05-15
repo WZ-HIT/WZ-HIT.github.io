@@ -21,7 +21,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/WangZuo' }
+      { icon: 'github', link: 'https://github.com/WZ-HIT' }
     ],
 
     footer: {

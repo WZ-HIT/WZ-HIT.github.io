@@ -11,7 +11,7 @@ hero:
       link: /labs/lab1
     - theme: alt
       text: GitHub
-      link: https://github.com/WangZuo
+      link: https://github.com/WZ-HIT
 
 features:
   - title: 实验一：环境搭建
